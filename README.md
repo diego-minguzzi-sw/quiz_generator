@@ -34,6 +34,17 @@ Activate the environment with the command:
   source ${REPO_ROOT}/api_keys/api_keys.sh
 
   export PYTHONPATH=${PYTHONPATH}:${REPO_ROOT}/src_py/lib
-
 </pre>
 </code>
+
+Run using the command:
+<code>
+<pre>
+  python3 ${REPO_ROOT}/src_py/main_tk_ui.py
+</pre>
+</code>
+
+Execution example:
+<img src="images/screen_shot.jpg" alt="UI image"/>
+
+
