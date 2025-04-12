@@ -1,5 +1,7 @@
 # quiz_generator
-A tool that uses a LLM to generate questions based on a set of documents.
+A tool that uses a LLM to generate questions for an exam, based on a set of documents.
+<br>
+Targeted to the Italian language.  UI messages and prompts to the LLM are written in Italian.<br>
 
 ## Installation of the required packages
 
@@ -46,5 +48,4 @@ Run using the command:
 
 Execution example:
 <img src="images/screen_shot.jpg" alt="UI image"/>
-
 
