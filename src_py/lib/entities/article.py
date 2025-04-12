@@ -11,6 +11,9 @@ class Article:
         self._text = text
         self._references = references
 
+    def __str__(self):
+      return f'{self._title}\n{self._text}'
+
     @property
     def title( self): return self._title
 

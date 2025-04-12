@@ -31,7 +31,6 @@ Activate the environment with the command:
 
   source venv/bin/activate
 
-  # Loads the keys to the API(s).
   source ${REPO_ROOT}/api_keys/api_keys.sh
 
   export PYTHONPATH=${PYTHONPATH}:${REPO_ROOT}/src_py/lib

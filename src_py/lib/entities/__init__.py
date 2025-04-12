@@ -4,4 +4,5 @@
 #
 from .article import *
 from .document import *
+from .question import *
 
